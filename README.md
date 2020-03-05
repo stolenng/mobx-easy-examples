@@ -1,3 +1,7 @@
+## mobx-easy-examples
+Examples for `mobx-easy`, full documentation is here: http://mobx-easy.georgy-glezer.com/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
