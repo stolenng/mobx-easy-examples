@@ -12,7 +12,7 @@
     "@types/react-dom": "^16.9.5",
     "antd": "^4.0.0",
     "mobx": "^5.15.4",
-    "mobx-easy": "1.0.0",
+    "mobx-easy": "1.0.3",
     "mobx-react-lite": "^1.5.2",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
